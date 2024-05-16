@@ -2,7 +2,7 @@ body{
 	background-image: url("logo_for_ur.jpg");
 	background-repeat: no-repeat; 
   background-attachment: fixed;         
-	margin:0;
+	margin:0; 
 	color:#6a6f8c;     
 	/*background:#c8c8c8;*/    
 	font:600 16px/18px 'Open Sans',sans-serif;  
